@@ -1,4 +1,4 @@
-<h1 align="center"> ☠️ CodingKingDoyun ☠️ </h1>
+<h1 align="center"> ☠️ CodingKingGUN ☠️ </h1>
 <div align="center">
   김건은 죽었다.</br>
   그리고 김건으로 다시 태어났다..</br>
